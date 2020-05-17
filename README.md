@@ -40,10 +40,10 @@ void connectedWifi(){
 // เชื่อมต่อ Wi-Fi
   connectedWifi();
 ```
-### Node เชื่อมต่อ Firebase 
+### NodeMCU เชื่อมต่อ Firebase 
 > การเชื่อมต่อและดึงค่าจาก Firebase ด้วย **"FirebaseESP8266.h"** แหล่งที่มา [อ่านเพิ่มเติม](https://github.com/mobizt/Firebase-ESP8266/blob/master/README.md?fbclid=IwAR0Hs8vYTkr_rOeDoeaDegefeu5BZAjdR7alp9-wD-fp85kRTltZGDW7yMU) และศึกษาฟังก์ชันต่าง ๆ ได้ [ที่นี่](https://github.com/mobizt/Firebase-ESP8266/tree/master/src)
 
-#### Code การเชื่อมต่อกับ Firebase
+#### คำสั่งการเชื่อมต่อกับ Firebase
 
 เรียกใช้ Library ดาวน์โหลดได้ [ที่นี่](https://github.com/mobizt/Firebase-ESP8266/blob/master/README.md?fbclid=IwAR0Hs8vYTkr_rOeDoeaDegefeu5BZAjdR7alp9-wD-fp85kRTltZGDW7yMU):
 ```
